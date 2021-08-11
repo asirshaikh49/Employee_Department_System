@@ -1,0 +1,38 @@
+C:\Users\hp\PycharmProjects\self_emp_management\venv\Scripts\python.exe C:/Users/hp/PycharmProjects/self_emp_management/app.py
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 803-844-792
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [12/Aug/2021 01:19:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:10] "GET /delete/6 HTTP/1.1" 308 -
+127.0.0.1 - - [12/Aug/2021 01:20:11] "GET /delete/6/ HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:12] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:17] "GET /delete/7 HTTP/1.1" 308 -
+127.0.0.1 - - [12/Aug/2021 01:20:17] "GET /delete/7/ HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:20] "GET /delete/8 HTTP/1.1" 308 -
+127.0.0.1 - - [12/Aug/2021 01:20:20] "GET /delete/8/ HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:20] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:22] "GET /delete/9 HTTP/1.1" 308 -
+127.0.0.1 - - [12/Aug/2021 01:20:22] "GET /delete/9/ HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:24] "GET /delete/10 HTTP/1.1" 308 -
+127.0.0.1 - - [12/Aug/2021 01:20:25] "GET /delete/10/ HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:25] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:41] "POST /insert HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:41] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:20:53] "POST /insert HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:20:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:21:04] "POST /insert HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:21:04] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:21:17] "POST /insert HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:21:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:21:26] "POST /update HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:21:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2021 01:21:38] "POST /update HTTP/1.1" 302 -
+127.0.0.1 - - [12/Aug/2021 01:21:38] "GET / HTTP/1.1" 200 -
